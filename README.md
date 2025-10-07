@@ -14,7 +14,7 @@
 
 ---
 
-## 📲 Conecte-se comigo!  
+## 📲 Conecte-se comigo  
 
 <div align="left">
   <a href="mailto:laportebiel1@gmail.com">
@@ -45,7 +45,7 @@
 
 ---
 
-## ⚙️ Bibliotecas e Frameworks  
+## ⚙️ Frameworks e Ferramentas  
 
 <div align="left">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="28" />
@@ -53,7 +53,6 @@
   <img src="https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white" height="28" />
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" height="28" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" height="28" />
-  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" height="28" />
   <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" height="28" />
 </div>
 
@@ -70,19 +69,24 @@
 
 ---
 
-## 📈 Estatísticas GitHub  
+## 📊 Estatísticas GitHub  
 
 <div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=GabrielSouza&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielSouza&layout=compact&langs_count=7&theme=radical"/>
+  <a href="https://github.com/GabrielSouza">
+    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=GabrielSouza&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielSouza&layout=compact&langs_count=7&theme=tokyonight"/>
+  </a>
 </div>
 
 ---
 
 ## 🐍 Contribuições  
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GabrielSouza/GabrielSouza/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GabrielSouza/GabrielSouza/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/GabrielSouza/GabrielSouza/output/github-contribution-grid-snake.svg">
-</picture>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GabrielSouza/GabrielSouza/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GabrielSouza/GabrielSouza/output/github-contribution-grid-snake.svg">
+    <img alt="Animação de contribuições" src="https://raw.githubusercontent.com/GabrielSouza/GabrielSouza/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
