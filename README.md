@@ -76,10 +76,3 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rttwx&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
----
-
-## 🐍 Contribuições
-
-![Animação de contribuições](https://raw.githubusercontent.com/rttwx/rttwx/output/github-contribution-grid-snake-dark.svg)
-
----
