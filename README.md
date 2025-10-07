@@ -8,7 +8,7 @@
 
 ## 🧠 Sobre mim
 
-🇧🇷 Desenvolvedor em formação, curioso por natureza e motivado por desafios.  
+ Desenvolvedor em formação, curioso por natureza e motivado por desafios.  
 💡 Gosto de transformar ideias em soluções digitais e estou sempre aprimorando minhas habilidades em design, código e lógica.  
 📚 No momento estudando: React, TypeScript e boas práticas de desenvolvimento.
 
